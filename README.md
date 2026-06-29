@@ -1,7 +1,11 @@
-# Portfolio Website
+# 🔗 Portfolio Website
 
-This is my personal portfolio website built using only HTML.  
-It is part of my internship work.  
+This is my personal portfolio website built using HTML and CSS.
+It is part of my internship work.
 
-The website includes my profile, skills, and projects.  
-It showcases my basic web development skills.  
+🌐 **Live Website:**  
+https://bhanu-joshi01.github.io/Resume/
+
+The website includes my profile, skills, education, projects, and contact information.
+
+It showcases my basic web development skills using semantic HTML and basic CSS.
