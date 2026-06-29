@@ -3,7 +3,7 @@
 A simple navigation bar built using **HTML** and **CSS**. It features a logo, navigation links, and smooth hover color effects using Flexbox.
 
 ## 🔗 Live Demo
-*Coming Soon*
+https://bhanu-joshi01.github.io/Resume/projects/Navigation%20Bar/
 
 ## 🚀 Technologies
 - HTML5
